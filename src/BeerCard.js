@@ -11,6 +11,7 @@ const BeerCard = (props) => {
             </h3>
             <h4>{props.tagline}</h4>
             <p><span>{props.abv}</span>{props.description}</p>
+            <p></p>
 
             <button></button>
             
